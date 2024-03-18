@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["525616193557", '𝗣𝗶𝗻𝗴𝘂𝗶 𝗗𝗶𝗼𝘀 🐧', true], //𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦
+["51926933818", '𝗣𝗶𝗻𝗴𝘂𝗶 𝗗𝗶𝗼𝘀 🐧', true], //𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦
 ["525643166371", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', true],
-["525643166371", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', true]]
+["524611461431", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', true]]
 
 global.mods = []
 global.prems = []
@@ -113,7 +113,7 @@ global.moment = moment
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
 ["525643166371", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', 1], 
-["525643166371", '𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧', 1]]
+["51926933818", '𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
