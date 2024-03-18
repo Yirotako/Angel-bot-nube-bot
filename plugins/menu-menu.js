@@ -136,7 +136,7 @@ let menu =`
  ╰━━━━━━━━━━━━━
 
  ╭━     💦 𝐌𝐀𝐍𝐉𝐈𝐑𝐎 𝐄𝐃𝐈𝐓𝐒 💦 
- ┃➤ ${usedPrefix}ApkEdit
+ ┃➤ ${usedPrefix}ApkEdits
  ┃➤ ${usedPrefix}DriveEdits
  ╰━━━━━━━━━━━━━
   
