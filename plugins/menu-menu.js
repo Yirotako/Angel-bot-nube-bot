@@ -91,7 +91,6 @@ let menu =`
  ╰━━━━━━━━━━━━━
 
  ╭━      💦 𝐀𝐃𝐐𝐔𝐈𝐑𝐈𝐑 𝐌𝐀𝐍𝐉𝐈𝐑𝐎 💦 
- ┃➤ ${usedPrefix}Vendedores / Vendedores ofc
  ┃➤ ${usedPrefix}Preciobot / Comprar El Bot
  ┃➤ ${usedPrefix}Proveedor / Deseas Vender Manjiro ?
  ╰━━━━━━━━━━━━━
