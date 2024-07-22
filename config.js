@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51926933818", '𝗣𝗶𝗻𝗴𝘂𝗶 𝗗𝗶𝗼𝘀 🐧', true], //𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦
-["525643166371", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', true],
-["524611461431", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', true]]
+["5215541081250", '𝗣𝗶𝗻𝗴𝘂𝗶 𝗗𝗶𝗼𝘀 🐧', true], //𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦
+["5215541081250", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', true],
+["5215541081250", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', true]]
 
 global.mods = []
 global.prems = []
@@ -112,8 +112,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["525643166371", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', 1], 
-["51926933818", '𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧', 1]]
+["5215541081250", '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', 1], 
+["5215541081250", '𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -191,7 +191,7 @@ global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "51926933818"
+global.nomorown = "5215541081250"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
