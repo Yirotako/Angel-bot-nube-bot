@@ -8,7 +8,7 @@ if (process.send) { process.send('uptime')
 _muptime = await new Promise(resolve => { process.once('message', resolve) 
 setTimeout(resolve, 2000) }) * 1000}
 let uptime = clockString(_uptime)
-let bio = `𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 𝗘𝗹 𝗠𝗲𝗷𝗼𝗿 𝗗𝗲 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ║ 𝗧𝗶𝗲𝗺𝗽𝗼 𝗔𝗰𝘁𝗶𝘃𝗼 ${uptime}`
+let bio = `𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝑩𝒚 𝑺𝒉𝒂𝒅𝒐𝒘𝑽𝒛   𝑻𝒊𝒆𝒎𝒑𝒐 𝑨𝒄𝒕𝒊𝒗𝒐 ${uptime}`
 await this.updateProfileStatus(bio).catch(_ => _)
 setting.status = new Date() * 1
 } 
