@@ -9,19 +9,24 @@ handler.botAdmin = true
 
 global.Fem00 = ` 
 🌺 Lista 4 VS 4 Fem 🌺
-      Jugadoras
+
+🕘 Horario:
+🇲🇽 8:00 PM
+🇨🇴 9:00 PM
+
+         Jugadoras
 
 🌸- 
 🌸- 
 🌸- 
 🌸- 
 
-      Suplentes
-      
+          Suplentes
+
 🌼- 
 🌼- 
 
  Donadora: 
- 
+
 🌺-
 `;
