@@ -139,7 +139,7 @@ global.md = "https://www.instagram.com/shadow.vz/"
 global.fb = "https://www.instagram.com/shadow.vz/"
 global.tk = "https://www.instagram.com/shadow.vz/"
 global.ths = "https://www.instagram.com/shadow.vz/"
-global.paypal = 'https://www.paypal.com/xjeff.store'
+global.paypal = 'https://www.paypal.me/ShadowDark46'
 global.asistencia = 'https://wa.me/5215541081250' //Contacto
 global.bot = 'https://wa.me/5215541081250' //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
