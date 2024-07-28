@@ -5,7 +5,7 @@ handler.command = /^(Mapa|mapa)$/i;
 export default handler;
 
 global.mapa = `
-*Reglas Mapa : Pngui Bot*
+*Reglas Mapa :*
 
 *Caida*  ' Cambia Pingui X Tu Team'
 _Pingui 1ra Sala Lado Derecho_
@@ -41,8 +41,5 @@ _Rival : Blanco_
 
 _1ra Sala : Rival_
 _2da Sala : Pingui_
-_3ra Sala : Perdedor De 1ra_
-
-
-*🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧*
+_3ra Sala : Perdedor De 1ra_ 
 `;
