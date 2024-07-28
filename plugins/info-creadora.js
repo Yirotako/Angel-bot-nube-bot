@@ -6,7 +6,7 @@ export default handler;
 global.Creador = `
   𝑪𝒓𝒆𝒂𝒅𝒐𝒓 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 
 
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : whttps://www.facebook.com/Shadow.Vnts?mibextid=ZbWKwL
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/Shadow.Vnts?mibextid=ZbWKwL
 𝐈𝐧𝐬𝐭𝐚 : https://www.instagram.com/shadow.vz/
 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 : wa.me/525541081250
 
