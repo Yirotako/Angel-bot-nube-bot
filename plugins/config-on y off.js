@@ -51,7 +51,7 @@ let name = await conn.getName(m.sender)
 text: `${lenguajeGB.smsConfi10()}`,
 footer: `╭━━━✦ *${lenguajeGB.smsConfi1()}* ✦━━━━⬣
 ┃
-┃🌟 ${lenguajeGB.smsConfi2()} *${name}*
+┃❄ ${lenguajeGB.smsConfi2()} *${name}*
 ┃
 ${lenguajeGB.smsConfi3()}
 ${lenguajeGB.smsConfi4()}
@@ -655,12 +655,12 @@ ${wm}`, fkontak, { mentions: [aa,] })
 //conn.sendMessage(m.chat, texto, {quoted: fkontak})	
 throw false
 }
-await conn.reply(m.chat, `${lenguajeGB['smsAvisoRG']()}ღ *_${lenguajeGB['smsMens1']()}_* *|* ${type} 
-ღ *_${lenguajeGB['smsMens2']()}_* *|* ${isEnable ? lenguajeGB.smsEncender() : lenguajeGB.smsApagar()} 
-ღ *_${lenguajeGB['smsMens3']()}_* *|* ${isAll ? lenguajeGB.smsMens4() : isUser ? '' : lenguajeGB.smsMens5()}`, fkontak, m)}	
-/*await conn.sendButton(m.chat, `${lenguajeGB['smsAvisoRG']()}ღ *_${lenguajeGB['smsMens1']()}_* *|* ${type} 
-ღ *_${lenguajeGB['smsMens2']()}_* *|* ${isEnable ? lenguajeGB.smsEncender() : lenguajeGB.smsApagar()} 
-ღ *_${lenguajeGB['smsMens3']()}_* *|* ${isAll ? lenguajeGB.smsMens4() : isUser ? '' : lenguajeGB.smsMens5()}`, wm, null, [[`${isEnable ? lenguajeGB.smsApagar() : lenguajeGB.smsEncender()}`, `${isEnable ? `.off ${type}` : `.on ${type}`}`], [lenguajeGB.smsConMenu(), '.menu']], fkontak, m)}*/
+await conn.reply(m.chat, `${lenguajeGB['smsAvisoRG']()}❄ *_${lenguajeGB['smsMens1']()}_* *|* ${type} 
+❄ *_${lenguajeGB['smsMens2']()}_* *|* ${isEnable ? lenguajeGB.smsEncender() : lenguajeGB.smsApagar()} 
+❄ *_${lenguajeGB['smsMens3']()}_* *|* ${isAll ? lenguajeGB.smsMens4() : isUser ? '' : lenguajeGB.smsMens5()}`, fkontak, m)}	
+/*await conn.sendButton(m.chat, `${lenguajeGB['smsAvisoRG']()}❄ *_${lenguajeGB['smsMens1']()}_* *|* ${type} 
+❄ *_${lenguajeGB['smsMens2']()}_* *|* ${isEnable ? lenguajeGB.smsEncender() : lenguajeGB.smsApagar()} 
+❄ *_${lenguajeGB['smsMens3']()}_* *|* ${isAll ? lenguajeGB.smsMens4() : isUser ? '' : lenguajeGB.smsMens5()}`, wm, null, [[`${isEnable ? lenguajeGB.smsApagar() : lenguajeGB.smsEncender()}`, `${isEnable ? `.off ${type}` : `.on ${type}`}`], [lenguajeGB.smsConMenu(), '.menu']], fkontak, m)}*/
 handler.help = ['en', 'dis'].map(v => v + 'able <option>')
 handler.tags = ['group', 'owner']
 handler.command = /^((en|dis)able|(tru|fals)e|(turn)?o(n|ff)|[01])$/i
