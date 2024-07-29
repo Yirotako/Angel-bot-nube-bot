@@ -22,7 +22,7 @@ if (new Date - user.lastmiming < 10000) return await conn.reply(m.chat, `*ESPERA
       } catch (e) {
         console.error(e)
       } finally {
-      await conn.reply(m.chat, `${eg}⏳ *CREANDO STICKER, UN MOMENTO...* 🐈`, m)
+      await conn.reply(m.chat, `${eg} *𝑪𝒓𝒆𝒂𝒏𝒅𝒐 𝑺𝒕𝒊𝒄𝒌𝒆𝒓,  𝑨𝒈𝒖𝒂𝒓𝒅𝒆 𝑼𝒏 𝑴𝒐𝒎𝒆𝒏𝒕𝒐...* `, m)
         if (!stiker) {
           if (/webp/g.test(mime)) out = await webp2png(img)
           else if (/image/g.test(mime)) out = await uploadImage(img)
