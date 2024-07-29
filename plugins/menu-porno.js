@@ -84,7 +84,7 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
-  ╭━〔 *💦 Manjiro Pornero 💦* 〕
+  ╭━〔 *𝑿𝑿𝑿 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕* 〕
  *┃➤* _${usedPrefix}Manuelaqm_
  *┃➤* _${usedPrefix}OnlyVip2_
  *┃➤* _${usedPrefix}Booty2_
@@ -112,7 +112,7 @@ let menu =`
  *┃➤* _${usedPrefix}Porno_
  *┃➤* _${usedPrefix}RamdonXxx_
  *┃➤* _${usedPrefix}Pechos_
-  ╰━━━━━━━━━━━━━`.trim()
+  ╰━━━━━━𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕━━━━━━━`.trim()
 await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
