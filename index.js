@@ -22,7 +22,7 @@ const rl = createInterface(process.stdin, process.stdout)
 //const app = express()
 //const port = process.env.PORT || 8080;
 
-say('Shadows\nBot', {
+say('𝙣𝙪𝙗𝙚\n𝙗𝙤𝙩', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
